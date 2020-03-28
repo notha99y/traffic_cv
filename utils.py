@@ -2,6 +2,7 @@ import json
 from datetime import datetime, timedelta
 import requests
 import shutil
+from tqdm import tqdm
 
 
 def get_data(time_stamp):
@@ -53,9 +54,22 @@ def time_series_images(time_stamp_start, time_stamp_end, camera_id, refresh_rate
         save_image_from_url(
             interested_jui['image'], '{}_{}.jpg'.format(camera_id, time_stamp))
 
+def get_camera_info(time_stamp):
+    res = get_data(time_stamp)
+    camera_info = dict()
+    for cam in tqdm(res['items'][0]['cameras']):
+        camera_info[cam['camera_id']] = {
+            'location':cam['location'],
+            'image_metadata':cam['image_metadata']
+        }
 
+    with open('camera_info.json', 'w') as outfile:
+        json.dump(camera_info, outfile)
+    
 if __name__ == "__main__":
-    start_time_stamp = '2020-02-29T13:00:00'
-    end_time_stamp = '2020-02-29T14:00:00'
-    camera_id = '2701'
-    time_series_images(start_time_stamp, end_time_stamp, camera_id)
+    start_time_stamp = '2020-03-06T10:40:00'
+    end_time_stamp = '2020-03-06T11:10:00'
+    camera_id = '2702'
+    # time_series_images(start_time_stamp, end_time_stamp, camera_id)
+    # res = get_data(start_time_stamp)
+    get_camera_info(start_time_stamp)
