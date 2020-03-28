@@ -3,3 +3,5 @@ __pycache__
 notebooks
 *.zip
 *.pdf
+*.jpg
+keras_yolo/model_data
