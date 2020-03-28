@@ -1,0 +1,948 @@
+{
+    "1702": {
+        "location": {
+            "latitude": 1.34355015,
+            "longitude": 103.8601984
+        },
+        "image_metadata": {
+            "height": 480,
+            "width": 640,
+            "md5": "23b2665f6ff98095be73a1fccea18ade"
+        }
+    },
+    "1704": {
+        "location": {
+            "latitude": 1.28569398886979,
+            "longitude": 103.837524510188
+        },
+        "image_metadata": {
+            "height": 480,
+            "width": 640,
+            "md5": "85beb8d0b6684dd726691abbfb26ae0b"
+        }
+    },
+    "1705": {
+        "location": {
+            "latitude": 1.375925022,
+            "longitude": 103.8587986
+        },
+        "image_metadata": {
+            "height": 1080,
+            "width": 1920,
+            "md5": "43d319d5535348e442c34d865165e01e"
+        }
+    },
+    "1707": {
+        "location": {
+            "latitude": 1.28036584335876,
+            "longitude": 103.830451146503
+        },
+        "image_metadata": {
+            "height": 480,
+            "width": 640,
+            "md5": "b7a3bc9a20051157bbdd1a0dee55e7ce"
+        }
+    },
+    "1709": {
+        "location": {
+            "latitude": 1.31384231654635,
+            "longitude": 103.845603032574
+        },
+        "image_metadata": {
+            "height": 480,
+            "width": 640,
+            "md5": "a9b4d49d499b856ffaf41c9654beefc9"
+        }
+    },
+    "1711": {
+        "location": {
+            "latitude": 1.35296,
+            "longitude": 103.85719
+        },
+        "image_metadata": {
+            "height": 480,
+            "width": 640,
+            "md5": "49120a8c7ad12b464d79447a3ebef2bd"
+        }
+    },
+    "2701": {
+        "location": {
+            "latitude": 1.447023728,
+            "longitude": 103.7716543
+        },
+        "image_metadata": {
+            "height": 480,
+            "width": 640,
+            "md5": "dc4dd7c42441854ca090436a272d698c"
+        }
+    },
+    "2702": {
+        "location": {
+            "latitude": 1.445554109,
+            "longitude": 103.7683397
+        },
+        "image_metadata": {
+            "height": 1080,
+            "width": 1920,
+            "md5": "9b8cb3c9f43b3c79eb37c2079d7d7b79"
+        }
+    },
+    "4703": {
+        "location": {
+            "latitude": 1.348697862,
+            "longitude": 103.6350413
+        },
+        "image_metadata": {
+            "height": 480,
+            "width": 640,
+            "md5": "b7174f0cfdf5ba90aace41472738723a"
+        }
+    },
+    "4710": {
+        "location": {
+            "latitude": 1.32153,
+            "longitude": 103.75273
+        },
+        "image_metadata": {
+            "height": 1080,
+            "width": 1920,
+            "md5": "0e003c0ce0234bb5aa9e32338dec17c3"
+        }
+    },
+    "4713": {
+        "location": {
+            "latitude": 1.347645829,
+            "longitude": 103.6366955
+        },
+        "image_metadata": {
+            "height": 480,
+            "width": 640,
+            "md5": "bf55fe3125bc7ddc366a3acc00ae832d"
+        }
+    },
+    "1001": {
+        "location": {
+            "latitude": 1.29531332,
+            "longitude": 103.871146
+        },
+        "image_metadata": {
+            "height": 240,
+            "width": 320,
+            "md5": "d2ffcd999c663ddfd8b275612be72567"
+        }
+    },
+    "1002": {
+        "location": {
+            "latitude": 1.319541067,
+            "longitude": 103.8785627
+        },
+        "image_metadata": {
+            "height": 240,
+            "width": 320,
+            "md5": "b18d9f17460f47bd013bdbcf5fa08bc6"
+        }
+    },
+    "1004": {
+        "location": {
+            "latitude": 1.319535712,
+            "longitude": 103.8750668
+        },
+        "image_metadata": {
+            "height": 240,
+            "width": 320,
+            "md5": "ba7e1863ace5780d2415b9cb68fc43f4"
+        }
+    },
+    "1701": {
+        "location": {
+            "latitude": 1.323604823,
+            "longitude": 103.8587802
+        },
+        "image_metadata": {
+            "height": 480,
+            "width": 640,
+            "md5": "febc152a7efafd947c4e4a0a6446ce82"
+        }
+    },
+    "1703": {
+        "location": {
+            "latitude": 1.32814722194857,
+            "longitude": 103.862203282048
+        },
+        "image_metadata": {
+            "height": 480,
+            "width": 640,
+            "md5": "ec6cf71b17b660f720bb1a15cbc8f2a9"
+        }
+    },
+    "2703": {
+        "location": {
+            "latitude": 1.35047790791386,
+            "longitude": 103.791033581325
+        },
+        "image_metadata": {
+            "height": 1080,
+            "width": 1920,
+            "md5": "520403de99737507550bf06f1dcecfac"
+        }
+    },
+    "2704": {
+        "location": {
+            "latitude": 1.429588536,
+            "longitude": 103.769311
+        },
+        "image_metadata": {
+            "height": 1080,
+            "width": 1920,
+            "md5": "839b7a28a807813bcc2e71f40ff5ec63"
+        }
+    },
+    "2705": {
+        "location": {
+            "latitude": 1.36728572,
+            "longitude": 103.7794698
+        },
+        "image_metadata": {
+            "height": 1080,
+            "width": 1920,
+            "md5": "0fbeb1562b1052432429fffc6530d916"
+        }
+    },
+    "2707": {
+        "location": {
+            "latitude": 1.3983,
+            "longitude": 103.774247
+        },
+        "image_metadata": {
+            "height": 1080,
+            "width": 1920,
+            "md5": "07270e398aad502cadb3e1013562fe72"
+        }
+    },
+    "2708": {
+        "location": {
+            "latitude": 1.3865,
+            "longitude": 103.7747
+        },
+        "image_metadata": {
+            "height": 1080,
+            "width": 1920,
+            "md5": "4e05cbfad99e7b3a722ec7ef4e51a676"
+        }
+    },
+    "3704": {
+        "location": {
+            "latitude": 1.2958550156561,
+            "longitude": 103.880314665981
+        },
+        "image_metadata": {
+            "height": 1080,
+            "width": 1920,
+            "md5": "f1383e96c42a86de6c479bad37829648"
+        }
+    },
+    "3705": {
+        "location": {
+            "latitude": 1.32743,
+            "longitude": 103.97383
+        },
+        "image_metadata": {
+            "height": 1080,
+            "width": 1920,
+            "md5": "2a3f552b93378d0235a77d238bdf8c92"
+        }
+    },
+    "3793": {
+        "location": {
+            "latitude": 1.309330837,
+            "longitude": 103.9350504
+        },
+        "image_metadata": {
+            "height": 1080,
+            "width": 1920,
+            "md5": "6f8d315d37818b9a83b5e8df4749109a"
+        }
+    },
+    "3795": {
+        "location": {
+            "latitude": 1.30145145166066,
+            "longitude": 103.910596320237
+        },
+        "image_metadata": {
+            "height": 1080,
+            "width": 1920,
+            "md5": "054df2a78b7fe3794f31e8f39ad128aa"
+        }
+    },
+    "3796": {
+        "location": {
+            "latitude": 1.297512569,
+            "longitude": 103.8983019
+        },
+        "image_metadata": {
+            "height": 1080,
+            "width": 1920,
+            "md5": "854c093ba26bbb60d69f4a5b650f9706"
+        }
+    },
+    "3797": {
+        "location": {
+            "latitude": 1.29565733262976,
+            "longitude": 103.885283049309
+        },
+        "image_metadata": {
+            "height": 1080,
+            "width": 1920,
+            "md5": "2f05939c69063ab241ec3c2c484473db"
+        }
+    },
+    "3798": {
+        "location": {
+            "latitude": 1.29158484,
+            "longitude": 103.8615987
+        },
+        "image_metadata": {
+            "height": 1080,
+            "width": 1920,
+            "md5": "60449261a961da10ca8530d7888d9fe1"
+        }
+    },
+    "4701": {
+        "location": {
+            "latitude": 1.2871,
+            "longitude": 103.79633
+        },
+        "image_metadata": {
+            "height": 1080,
+            "width": 1920,
+            "md5": "926829a1d2a2816cbcd2121c209788c9"
+        }
+    },
+    "4702": {
+        "location": {
+            "latitude": 1.27237,
+            "longitude": 103.8324
+        },
+        "image_metadata": {
+            "height": 1080,
+            "width": 1920,
+            "md5": "e145d299144a795fb3708b37e7939235"
+        }
+    },
+    "4704": {
+        "location": {
+            "latitude": 1.27877,
+            "longitude": 103.82375
+        },
+        "image_metadata": {
+            "height": 1080,
+            "width": 1920,
+            "md5": "528a81dbb2e8bde7d6e314d78f6aa5e0"
+        }
+    },
+    "4705": {
+        "location": {
+            "latitude": 1.32618,
+            "longitude": 103.73028
+        },
+        "image_metadata": {
+            "height": 1080,
+            "width": 1920,
+            "md5": "a59eecd9782f9e8d40487979a6c265ca"
+        }
+    },
+    "4707": {
+        "location": {
+            "latitude": 1.33344648135658,
+            "longitude": 103.652700847056
+        },
+        "image_metadata": {
+            "height": 1080,
+            "width": 1920,
+            "md5": "b1b3d7c36675a5d21752760ddb5ed259"
+        }
+    },
+    "4708": {
+        "location": {
+            "latitude": 1.29939,
+            "longitude": 103.7799
+        },
+        "image_metadata": {
+            "height": 1080,
+            "width": 1920,
+            "md5": "a4ef6f24c74315ddba87444d1fcc4c0c"
+        }
+    },
+    "4709": {
+        "location": {
+            "latitude": 1.312019,
+            "longitude": 103.763002
+        },
+        "image_metadata": {
+            "height": 1080,
+            "width": 1920,
+            "md5": "03f7807b7c0db2a088ad04fcc9a30b86"
+        }
+    },
+    "4712": {
+        "location": {
+            "latitude": 1.341244001,
+            "longitude": 103.6439134
+        },
+        "image_metadata": {
+            "height": 1080,
+            "width": 1920,
+            "md5": "fab7b7156709db5e52c1f3c87d5d060a"
+        }
+    },
+    "4714": {
+        "location": {
+            "latitude": 1.31023,
+            "longitude": 103.76438
+        },
+        "image_metadata": {
+            "height": 1080,
+            "width": 1920,
+            "md5": "c80d71e9a4bc213d2bc03fd94c9e2219"
+        }
+    },
+    "4716": {
+        "location": {
+            "latitude": 1.32227,
+            "longitude": 103.67453
+        },
+        "image_metadata": {
+            "height": 1080,
+            "width": 1920,
+            "md5": "a7fec098729206971a0dcd08de199b15"
+        }
+    },
+    "4798": {
+        "location": {
+            "latitude": 1.25999999687243,
+            "longitude": 103.823611110166
+        },
+        "image_metadata": {
+            "height": 480,
+            "width": 640,
+            "md5": "78e6b6c020054ef3b37631c3c8256887"
+        }
+    },
+    "4799": {
+        "location": {
+            "latitude": 1.26027777363278,
+            "longitude": 103.823888890049
+        },
+        "image_metadata": {
+            "height": 480,
+            "width": 640,
+            "md5": "ca65a64cd88ede4d81c7ba84e0669de6"
+        }
+    },
+    "5794": {
+        "location": {
+            "latitude": 1.3309693,
+            "longitude": 103.9168616
+        },
+        "image_metadata": {
+            "height": 1080,
+            "width": 1920,
+            "md5": "ae24b07d7577ad9b1f5e2211e4ee4ef5"
+        }
+    },
+    "5795": {
+        "location": {
+            "latitude": 1.326024822,
+            "longitude": 103.905625
+        },
+        "image_metadata": {
+            "height": 1080,
+            "width": 1920,
+            "md5": "64b6254a257b54ce7b26c7288a81b55b"
+        }
+    },
+    "5797": {
+        "location": {
+            "latitude": 1.322875288,
+            "longitude": 103.8910793
+        },
+        "image_metadata": {
+            "height": 480,
+            "width": 640,
+            "md5": "927aad050bc1bc88fb9828c7ec941b7d"
+        }
+    },
+    "5798": {
+        "location": {
+            "latitude": 1.32036078126842,
+            "longitude": 103.877174116489
+        },
+        "image_metadata": {
+            "height": 1080,
+            "width": 1920,
+            "md5": "9f9b05da17fb62c3740682be6d1cbbdc"
+        }
+    },
+    "5799": {
+        "location": {
+            "latitude": 1.328171608,
+            "longitude": 103.8685191
+        },
+        "image_metadata": {
+            "height": 480,
+            "width": 640,
+            "md5": "7ea7a85bc354ea7fd32eca76d279bfe2"
+        }
+    },
+    "6701": {
+        "location": {
+            "latitude": 1.329334,
+            "longitude": 103.858222
+        },
+        "image_metadata": {
+            "height": 480,
+            "width": 640,
+            "md5": "6da9f963da676a125795fe77b97dd2c2"
+        }
+    },
+    "6703": {
+        "location": {
+            "latitude": 1.328899,
+            "longitude": 103.84121
+        },
+        "image_metadata": {
+            "height": 480,
+            "width": 640,
+            "md5": "9ad5802f1fcd6401998b49e1c4dbe987"
+        }
+    },
+    "6704": {
+        "location": {
+            "latitude": 1.32657403632366,
+            "longitude": 103.826857295633
+        },
+        "image_metadata": {
+            "height": 480,
+            "width": 640,
+            "md5": "2fd5d03b6da136465fbc5efa6ecb0395"
+        }
+    },
+    "6705": {
+        "location": {
+            "latitude": 1.332124,
+            "longitude": 103.81768
+        },
+        "image_metadata": {
+            "height": 480,
+            "width": 640,
+            "md5": "24c1cd93fdc68598de3a007dea2b516c"
+        }
+    },
+    "6706": {
+        "location": {
+            "latitude": 1.349428893,
+            "longitude": 103.7952799
+        },
+        "image_metadata": {
+            "height": 480,
+            "width": 640,
+            "md5": "0675221c48667615f293190b72af9a09"
+        }
+    },
+    "6708": {
+        "location": {
+            "latitude": 1.345996,
+            "longitude": 103.69016
+        },
+        "image_metadata": {
+            "height": 480,
+            "width": 640,
+            "md5": "7d840adca7a4b484cfba58939ac5e853"
+        }
+    },
+    "6710": {
+        "location": {
+            "latitude": 1.344205,
+            "longitude": 103.78577
+        },
+        "image_metadata": {
+            "height": 480,
+            "width": 640,
+            "md5": "739ea7ce059c9ed0776063688a43e2ef"
+        }
+    },
+    "6711": {
+        "location": {
+            "latitude": 1.33771,
+            "longitude": 103.977827
+        },
+        "image_metadata": {
+            "height": 1080,
+            "width": 1920,
+            "md5": "3e3d3b436d47b010a6837147e5de5dd2"
+        }
+    },
+    "6712": {
+        "location": {
+            "latitude": 1.332691,
+            "longitude": 103.770278
+        },
+        "image_metadata": {
+            "height": 480,
+            "width": 640,
+            "md5": "5bf36a3ee401c51c8a1c809dba8c6fd2"
+        }
+    },
+    "6713": {
+        "location": {
+            "latitude": 1.340298,
+            "longitude": 103.945652
+        },
+        "image_metadata": {
+            "height": 1080,
+            "width": 1920,
+            "md5": "be4b3438757b324368e599b2f8f0438c"
+        }
+    },
+    "6714": {
+        "location": {
+            "latitude": 1.361742,
+            "longitude": 103.703341
+        },
+        "image_metadata": {
+            "height": 480,
+            "width": 640,
+            "md5": "448dcd6b15644a38e57f1195dff35fe3"
+        }
+    },
+    "6715": {
+        "location": {
+            "latitude": 1.356299,
+            "longitude": 103.716071
+        },
+        "image_metadata": {
+            "height": 480,
+            "width": 640,
+            "md5": "fc4a3ff270a8672c1a61359232218f47"
+        }
+    },
+    "6716": {
+        "location": {
+            "latitude": 1.322893,
+            "longitude": 103.663505
+        },
+        "image_metadata": {
+            "height": 480,
+            "width": 640,
+            "md5": "d9daa8a66e032434a8bffac92a7d2eaa"
+        }
+    },
+    "7791": {
+        "location": {
+            "latitude": 1.354245,
+            "longitude": 103.963782
+        },
+        "image_metadata": {
+            "height": 1080,
+            "width": 1920,
+            "md5": "d8b0e218a79a8e817f65474dff0eb743"
+        }
+    },
+    "7793": {
+        "location": {
+            "latitude": 1.37704704,
+            "longitude": 103.92946983
+        },
+        "image_metadata": {
+            "height": 1080,
+            "width": 1920,
+            "md5": "fa23b186c2700d28eadf63d3d9ba952d"
+        }
+    },
+    "7794": {
+        "location": {
+            "latitude": 1.37988658,
+            "longitude": 103.92009174
+        },
+        "image_metadata": {
+            "height": 1080,
+            "width": 1920,
+            "md5": "df644ca03f0b0c2facb4e3934321fe91"
+        }
+    },
+    "7795": {
+        "location": {
+            "latitude": 1.38432741,
+            "longitude": 103.91585701
+        },
+        "image_metadata": {
+            "height": 1080,
+            "width": 1920,
+            "md5": "dada37020d0ee1a3a041dca0a22ae9b0"
+        }
+    },
+    "7796": {
+        "location": {
+            "latitude": 1.39559294,
+            "longitude": 103.90515712
+        },
+        "image_metadata": {
+            "height": 1080,
+            "width": 1920,
+            "md5": "01d4b3240c77f3a3da1ae5ffe376f206"
+        }
+    },
+    "7797": {
+        "location": {
+            "latitude": 1.40002575,
+            "longitude": 103.85702534
+        },
+        "image_metadata": {
+            "height": 1080,
+            "width": 1920,
+            "md5": "9309a08627fc8395e58f94067b663236"
+        }
+    },
+    "7798": {
+        "location": {
+            "latitude": 1.39748842,
+            "longitude": 103.85400467
+        },
+        "image_metadata": {
+            "height": 1080,
+            "width": 1920,
+            "md5": "34d5538fffce1d4c01c2ba82c9f619b3"
+        }
+    },
+    "8701": {
+        "location": {
+            "latitude": 1.38647,
+            "longitude": 103.74143
+        },
+        "image_metadata": {
+            "height": 1080,
+            "width": 1920,
+            "md5": "2d2a915320f2151dc2db2ddf9dc88a10"
+        }
+    },
+    "8702": {
+        "location": {
+            "latitude": 1.39059,
+            "longitude": 103.7717
+        },
+        "image_metadata": {
+            "height": 1080,
+            "width": 1920,
+            "md5": "16eae49338d359ab99b738284dd757c3"
+        }
+    },
+    "8704": {
+        "location": {
+            "latitude": 1.3899,
+            "longitude": 103.74843
+        },
+        "image_metadata": {
+            "height": 1080,
+            "width": 1920,
+            "md5": "1e763645ad360e457babbe25ca80f416"
+        }
+    },
+    "8706": {
+        "location": {
+            "latitude": 1.3664,
+            "longitude": 103.70899
+        },
+        "image_metadata": {
+            "height": 1080,
+            "width": 1920,
+            "md5": "f7374a4332de3fd0e85c03b423e4077a"
+        }
+    },
+    "9701": {
+        "location": {
+            "latitude": 1.39466333,
+            "longitude": 103.83474601
+        },
+        "image_metadata": {
+            "height": 1080,
+            "width": 1920,
+            "md5": "579007f220980287ee918b5cbfed7cf6"
+        }
+    },
+    "9702": {
+        "location": {
+            "latitude": 1.39474081,
+            "longitude": 103.81797086
+        },
+        "image_metadata": {
+            "height": 1080,
+            "width": 1920,
+            "md5": "ca3401388679bf7d55936808d152e274"
+        }
+    },
+    "9703": {
+        "location": {
+            "latitude": 1.422857,
+            "longitude": 103.773005
+        },
+        "image_metadata": {
+            "height": 1080,
+            "width": 1920,
+            "md5": "21385ee4521e000932a5358473660646"
+        }
+    },
+    "9705": {
+        "location": {
+            "latitude": 1.42627712,
+            "longitude": 103.78716637
+        },
+        "image_metadata": {
+            "height": 1080,
+            "width": 1920,
+            "md5": "5aca4dc58b31d577f8edceba88423d2f"
+        }
+    },
+    "9706": {
+        "location": {
+            "latitude": 1.41270056,
+            "longitude": 103.80642712
+        },
+        "image_metadata": {
+            "height": 1080,
+            "width": 1920,
+            "md5": "159b07599152001403a9af0784b74718"
+        }
+    },
+    "1501": {
+        "location": {
+            "latitude": 1.27414394350065,
+            "longitude": 103.851316802547
+        },
+        "image_metadata": {
+            "height": 240,
+            "width": 320,
+            "md5": "3f9c3c76e9812b4d7a54d758f6395e47"
+        }
+    },
+    "1502": {
+        "location": {
+            "latitude": 1.27135090682664,
+            "longitude": 103.861828440597
+        },
+        "image_metadata": {
+            "height": 240,
+            "width": 320,
+            "md5": "8dba35a5919bf6306756c850caec1ee9"
+        }
+    },
+    "1503": {
+        "location": {
+            "latitude": 1.27066408655104,
+            "longitude": 103.856977943394
+        },
+        "image_metadata": {
+            "height": 240,
+            "width": 320,
+            "md5": "edd2464887d7730be41cd82be2ca4563"
+        }
+    },
+    "1504": {
+        "location": {
+            "latitude": 1.29409891409364,
+            "longitude": 103.876056196568
+        },
+        "image_metadata": {
+            "height": 240,
+            "width": 320,
+            "md5": "18841e8e5807a021d73ecd8c9af0edea"
+        }
+    },
+    "1505": {
+        "location": {
+            "latitude": 1.2752977149006,
+            "longitude": 103.866390381759
+        },
+        "image_metadata": {
+            "height": 240,
+            "width": 320,
+            "md5": "dfcc73c3e559dd3d927ec583278f6bd7"
+        }
+    },
+    "2706": {
+        "location": {
+            "latitude": 1.414142,
+            "longitude": 103.771168
+        },
+        "image_metadata": {
+            "height": 1080,
+            "width": 1920,
+            "md5": "c1b0cf35228f15be33d9f6005ffb21b2"
+        }
+    },
+    "3702": {
+        "location": {
+            "latitude": 1.33831,
+            "longitude": 103.98032
+        },
+        "image_metadata": {
+            "height": 1080,
+            "width": 1920,
+            "md5": "07007c242894777b7c61210ae52275a9"
+        }
+    },
+    "4706": {
+        "location": {
+            "latitude": 1.29792,
+            "longitude": 103.78205
+        },
+        "image_metadata": {
+            "height": 1080,
+            "width": 1920,
+            "md5": "eea16ec6d64bfb8b52377f0d87dff217"
+        }
+    },
+    "9704": {
+        "location": {
+            "latitude": 1.42214311,
+            "longitude": 103.79542062
+        },
+        "image_metadata": {
+            "height": 1080,
+            "width": 1920,
+            "md5": "e88bc374ab9aa525739ff30265db22cb"
+        }
+    },
+    "1003": {
+        "location": {
+            "latitude": 1.323957439,
+            "longitude": 103.8728576
+        },
+        "image_metadata": {
+            "height": 240,
+            "width": 320,
+            "md5": "d5b3e67708cdf6a374e3997703398ea0"
+        }
+    },
+    "1005": {
+        "location": {
+            "latitude": 1.363519886,
+            "longitude": 103.905394
+        },
+        "image_metadata": {
+            "height": 240,
+            "width": 320,
+            "md5": "6cd8fb21f5db316403cf2a39ec59db21"
+        }
+    },
+    "1006": {
+        "location": {
+            "latitude": 1.357098686,
+            "longitude": 103.902042
+        },
+        "image_metadata": {
+            "height": 240,
+            "width": 320,
+            "md5": "3d59be0d6a514012fa5d80cefce8e235"
+        }
+    }
+}
