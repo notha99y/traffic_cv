@@ -5,3 +5,4 @@ notebooks
 *.pdf
 *.jpg
 keras_yolo/model_data
+results
