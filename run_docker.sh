@@ -1,1 +1,1 @@
-docker run -it -v /home/notha99y/Documents/personal_projects/traffic_cv:/workspace -e DISPLAY=$DISPLAY -e QT_X11_NO_MITSHM=1 -v /tmp/.X11-unix:/tmp/.X11-unix notha99y/keras_yolo_dev
+docker run -it -v /home/notha99y/Documents/personal_projects/traffic_cv:/workspace -e DISPLAY=$DISPLAY -e QT_X11_NO_MITSHM=1 -v /tmp/.X11-unix:/tmp/.X11-unix --gpus all notha99y/keras_yolo_dev
