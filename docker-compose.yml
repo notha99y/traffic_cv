@@ -1,0 +1,23 @@
+version: "3.7"
+
+services:
+    processing:
+        image: notha99y/keras_yolo_dev
+        stdin_open: true
+        tty: true
+        
+        volumes:
+            - /home/notha99y/Documents/personal_projects/traffic_cv:/workspace
+            - /tmp/.X11-unix:/tmp/.X11-unix
+        environment:
+            - NVIDIA_VISIBLE_DEVICES=all
+            - DISPLAY=$DISPLAY
+    cloudera:
+        image: cloudera/quickstart
+        privileged: true
+        stdin_open: true
+        tty: true
+        command: /usr/bin/docker-quickstart
+        ports:
+            - "7180:7180"
+            - "8888:8888"
