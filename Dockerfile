@@ -24,10 +24,8 @@ RUN pip3 install --no-cache-dir numpy \
 ARG DEBIAN_FRONTEND=noninteractive
 
 RUN apt-get install -y python3-tk
-# COPY ./src/ /keras_yolo
 
-# WORKDIR /keras_yolo/src
+RUN apt-get clean && rm -rf /tmp/* /var/tmp/* /var/lib/apt/lists/* && apt-get -y autoremove
 
-# EXPOSE 5000
-
-# CMD python3 app.py
+# hbase connector
+RUN pip3 install --no-cache-dir happybase
