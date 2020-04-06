@@ -1,4 +1,5 @@
 import json
+from pathlib import Path
 from datetime import datetime, timedelta
 import requests
 import shutil
@@ -67,10 +68,24 @@ def time_series_images(time_stamp_start, time_stamp_end, camera_id, refresh_rate
         save_image_from_url(
             interested_jui['image'], '{}_{}.jpg'.format(camera_id, time_stamp))
 
+def combine_csv(dir):
+    '''Takes the folder dir and get all the csv and combine them to one big ass csv
+    '''
+    csv_files = Path(dir).glob('*.csv')
+    with open('combined.csv', 'w') as f:
+        for csv_f in csv_files:
+            with open(csv_f, 'r') as ref:
+                lines = ref.readlines()[1:]
+            
+            for line in lines:
+                f.write('{},{}'.format(csv_f.stem,line))
+
+
 if __name__ == "__main__":
-    start_time_stamp = '2020-03-06T10:40:00'
-    end_time_stamp = '2020-03-06T11:10:00'
-    camera_id = '2702'
+    # start_time_stamp = '2020-03-06T10:40:00'
+    # end_time_stamp = '2020-03-06T11:10:00'
+    # camera_id = '2702'
     # time_series_images(start_time_stamp, end_time_stamp, camera_id)
     # res = get_data(start_time_stamp)
-    get_camera_info(start_time_stamp)
+    # get_camera_info(start_time_stamp)
+    pass
