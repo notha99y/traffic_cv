@@ -147,7 +147,7 @@ class YOLO(object):
             boxed_image = letterbox_image(image, new_image_size)
         image_data = np.array(boxed_image, dtype="float32")
 
-        print(image_data.shape)
+        # print(image_data.shape)
         image_data /= 255.0
         image_data = np.expand_dims(image_data, 0)  # Add batch dimension.
 
@@ -160,7 +160,7 @@ class YOLO(object):
             },
         )
 
-        print("Found {} boxes for {}".format(len(out_boxes), "img"))
+        # print("Found {} boxes for {}".format(len(out_boxes), "img"))
 
         font = ImageFont.truetype(
             font="keras_yolo/font/FiraMono-Medium.otf",
@@ -186,7 +186,7 @@ class YOLO(object):
             right = int(
                 min(image.size[0], np.floor(right + 0.5).astype("int32"))
             )
-            print(label, (left, top), (right, bottom))
+            # print(label, (left, top), (right, bottom))
 
             detection = {
                 "bbox": [left, top, right - left, bottom - top],
