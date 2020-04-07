@@ -15,7 +15,7 @@ STR_FMT = '%Y-%m-%dT%H:%M:%S'
 
 
 if __name__ == "__main__":
-    start_time_stamp = "2020-03-06T00:00:00"
+    start_time_stamp = "2020-03-18T20:00:00"
     end_time_stamp = "2020-03-21T00:00:00"
     refresh_rate = 60*60
     start = datetime.strptime(start_time_stamp, STR_FMT)
@@ -42,13 +42,18 @@ if __name__ == "__main__":
                     # print("[CAMERA ID]: ", jui["camera_id"])
                     # print("[CAMERA LOCATION]: ", jui["location"])
                     # print("[CAMERA IMAGE METADATA]: ", jui["image_metadata"])
+                    
                     save_name = os.path.join(
                         "data", "{}_{}.jpg".format(jui["camera_id"], time_stamp)
                     )
                     save_image_from_url(jui["image"], save_name)
                     # print(save_name)
-                    _image = Image.open(save_name)
-                    image, detections = od.detect_image(_image)
+                    try:
+                        _image = Image.open(save_name)
+                        image, detections = od.detect_image(_image)
+                    except Exception as e:
+                        print(e)
+                        detections = []
                     os.remove(save_name)
                     # print("[DETECTIONS]: ", len(detections))
                     fname, ext = os.path.splitext(save_name)

@@ -14,13 +14,18 @@ def get_data(time_stamp):
     e.g. 2020-02-29T13:00:00
     2020-02-29T13%3A00%3A00
     '''
-    date, time = time_stamp.split('T')
-    HH, mm, ss = time.split(':')
-    API_STRING = 'https://api.data.gov.sg/v1/transport/traffic-images?date_time={}T{}%3A{}%3A{}'.format(
-        date, HH, mm, ss)
-    print(API_STRING)
-    res = requests.get(API_STRING)
-
+    res = ''
+    while res == '':
+        try:
+            date, time = time_stamp.split('T')
+            HH, mm, ss = time.split(':')
+            API_STRING = 'https://api.data.gov.sg/v1/transport/traffic-images?date_time={}T{}%3A{}%3A{}'.format(
+                date, HH, mm, ss)
+            print(API_STRING)
+            res = requests.get(API_STRING)
+        except Exception as e:
+            print(e)
+            continue
     return res.json()
 
 def get_camera_info(time_stamp):
